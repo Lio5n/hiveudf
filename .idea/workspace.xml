@@ -32,7 +32,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="TotalNumOfLettersGenericUDAF.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wanggs/TotalNumOfLettersGenericUDAF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,8 +89,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="45" />
+    <option name="x" value="130" />
+    <option name="y" value="30" />
     <option name="width" value="1400" />
     <option name="height" value="818" />
   </component>
@@ -97,6 +107,32 @@
             <path>
               <item name="hiveudf" type="b2602c69:ProjectViewProjectNode" />
               <item name="hiveudf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiveudf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hiveudf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiveudf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hiveudf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiveudf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hiveudf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hiveudf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hiveudf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wanggs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,15 +251,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525542615003</updated>
-      <workItem from="1525542620760" duration="17959000" />
+      <workItem from="1525542620760" duration="19105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17959000" />
+    <option name="totallyTimeSpent" value="19105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="45" width="1400" height="818" extended-state="0" />
+    <frame x="130" y="30" width="1400" height="818" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -337,13 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wanggs/TotalNumOfLettersGenericUDAF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2897#2898#0" expanded="true" />
-            <element signature="e#2939#2940#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
         </state>
       </provider>
     </entry>
