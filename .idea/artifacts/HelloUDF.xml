@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloUDF">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloUDF</output-path>
+    <root id="archive" name="HelloUDF.jar">
+      <element id="module-output" name="hiveudf" />
+    </root>
+  </artifact>
+</component>
